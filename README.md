@@ -10,6 +10,11 @@ Mi recomendacion en caso de tener algun error, usar la extencion de visual code 
 Para validar el responsive del proyecto use las medidas del figma (393px X 1320px) Este se puede validar habilitando la opcion del navegador en dimension responsive y usar ese tamaño especifico para ello.
 El carrousel de fotos tambien funciona como debe esperarse, estas fotos tienen el nombre del autor traidos del json que contiene la api.
 Anexare algunas fotos del proyecto para dar un ejemplo de ello.
+Los graficos del primer dasher es una foto
+las tarjetas de abajo 3 tienen fotos en su contenido
+la tarjeta de del grafico al 94% es codigo puro
+la galeria de imagenes es el Swiper
+De resto todo esta hecho en codigo
 
 Tareas del proyecto
 El proyecto se compone de las siguientes tareas:
