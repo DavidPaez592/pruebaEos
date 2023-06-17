@@ -22,6 +22,7 @@ El proyecto se compone de las siguientes tareas:
 Qué tan cerca llego al diseño de Figma visualmente
 Que tan cerca puedo llegar al diseño responsive
 Funcionalidad (Swiper), que funcione correctamente el "Carousel JS library"
+Tambien use la fuente solicitada para los textos en el proyecto.
 
 Recursos adicionales
 Debo aclarar que por cuestiones de trabajo solo pude realizar la prube el dia sabado 17 de junio de 2023, hubiera querido hacerlo en VUE pero aun no estoy muy familiarizado con esa libreria, pero si es cuestion de estudiar sobre ella y aprender para implementarla no hay ningun problema, sin embargo use el tiempo que tuve en entregar un proyecto muy muy cercano al solicitado por medio de las herramientas basicas de frontend para no perder mucho tiempo y asi poder cumplir con el requerimiento, Si tienes alguna pregunta o necesitas aclarar cualquier aspecto del proyecto de prueba técnica, no dudes en ponerte en contacto conmigo.
